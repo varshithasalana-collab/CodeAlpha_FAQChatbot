@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is a platform that provides internship and learning opportunities for students."
+  },
+  {
+    "question": "How can I apply for an internship?",
+    "answer": "You can apply through the official CodeAlpha internship application process."
+  },
+  {
+    "question": "What technologies can I learn?",
+    "answer": "You can work with technologies such as Artificial Intelligence, Machine Learning, Web Development, and other software technologies."
+  },
+  {
+    "question": "How long is the internship?",
+    "answer": "The internship duration depends on the specific internship program and the assigned tasks."
+  },
+  {
+    "question": "How many tasks should I complete?",
+    "answer": "According to the internship instructions, participants need to complete the required minimum number of tasks to be eligible for the completion certificate."
+  },
+  {
+    "question": "What is an internship certificate?",
+    "answer": "An internship certificate is a document provided after successfully completing the required internship tasks and criteria."
+  },
+  {
+    "question": "Can I upload my project to GitHub?",
+    "answer": "Yes. The internship instructions require interns to upload their complete source code to a GitHub repository."
+  },
+  {
+    "question": "What is artificial intelligence?",
+    "answer": "Artificial Intelligence is a field of technology that enables computer systems to perform tasks that normally require human intelligence."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine Learning is a branch of Artificial Intelligence where computers learn patterns from data to make predictions or decisions."
+  },
+  {
+    "question": "Thank you",
+    "answer": "You're welcome! I'm happy to help."
+  }
+]
